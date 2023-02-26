@@ -1,0 +1,10 @@
+{
+  "suites": 0,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2022-06-30T15:12:28.956Z",
+  "duration": 122,
+  "file": "cypress/integration/RegressionTest/RunRegressionTest.js"
+}

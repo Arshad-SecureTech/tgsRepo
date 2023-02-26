@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "chai-json-schema": "^1.5.1",
+    "cosmiconfig": "^7.0.1",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-iframe": "^1.0.1",
+    "cypress-multi-reporters": "^1.5.0",
+    "cypress-parallel": "^0.1.8",
+    "junit-report-merger": "^3.0.5",
+    "mocha": "^9.2.1",
+    "mocha-junit-reporter": "^2.0.2"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "name": "bdd_cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test1": "echo \"Error: no test specified\" && exit 1",
+    "init": "npm install",
+    "run": "npx cypress run --config baseUrl=\"https://ui.oomi.co.uk/\"",
+    "test": "npx cypress open",
+    "focustags": "npx cypress-tags run -e TAGS='@focus'",
+    "cy:run": "cypress run",
+    "cy:parallel": "cypress-parallel -s cy:run -t 4 -m false"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.1.0",
+    "cypress": "^10.3.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-grep": "^2.6.1",
+    "cypress-mochawesome-reporter": "^3.0.0",
+    "cypress-sql-server": "^1.0.0",
+    "pg": "^8.7.3"
+  }
+}

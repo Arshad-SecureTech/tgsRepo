@@ -1,0 +1,65 @@
+ [
+    
+    {
+
+    "FieldControl": "#rdb_Text",
+    "Field":"FirstName(Text)"
+   
+ },
+{
+
+    "FieldControl": "#rdb_Number",
+    "Field":"Age(Number)"
+
+},
+{
+
+    "FieldControl": "#rdb_Checkbox",
+    "Field": "Active(CheckBox)"
+},
+{
+    "LoopCount": "1",
+    "FieldControl": "#rdb_Currency",
+    "Field": "Amount(Currency)"
+
+},
+{
+
+    "FieldControl": "#rdb_Date",
+    "Field": "Joining(Date)"
+
+},
+{
+    "FieldControl": "#rdb_Picklist",
+    "Field": "Tools(Picklist)"
+},
+{
+    "FieldControl": "#rdb_TextArea",
+    "Field": "Description(Text Area)"
+},
+{
+    "FieldControl": "#rdb_LookupRelationship",
+    "Field": "Gender(LookupRelationship)"
+},
+{
+    "FieldControl": "#rdb_Time",
+    "Field": "Time(Time)"
+},
+{
+    "LoopCount": "2",
+    "FieldControl": "#rdb_RadioButton",
+    "Field": "Status(Radio Button)"
+},
+{
+    "FieldControl": ":nth-child(10) > :nth-child(1) > .form-check > .form-check-label",
+    "Field": "Description2(Text Area Long)"
+},
+{
+    "FieldControl": ":nth-child(11) > :nth-child(1) > .form-check > .form-check-label",
+    "Field": "Description3(Text Area Rich)"
+}
+
+
+
+
+]

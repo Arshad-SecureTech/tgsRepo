@@ -1,0 +1,149 @@
+[
+
+
+    {
+        "DataTypeID": "13",
+        "AttributeLabel":"FirstName(text)",
+        "Numeric_Length": "",
+        "Numeric_DecimalPlaces": "",
+        "AttributeName": "FirstName(text)",
+        "AttributeApiCaption": "FirstName(text)",
+        "DoNotExposeInApi": true,
+        "Description": "FirstName(text)",
+        "HelpText": "FirstName(text)",
+        "Numeric_DefaultValue": "",
+        "AttributeTypeId": "",
+        "AlignmentTypeId": "0",
+        "ShowInHeaderRank": "0"
+
+      },
+
+      {
+        "DataTypeID": "3",
+        "AttributeLabel":"Active(CheckBox)",
+        "Numeric_Length": "",
+        "Numeric_DecimalPlaces": "",
+        "AttributeName": "ACTIVE_CHECKBOX",
+        "AttributeApiCaption": "ActiveCheckbox",
+        "DoNotExposeInApi": false,
+        "Description": "Active(CheckBox)",
+        "HelpText": "Active(CheckBox)",
+        "Numeric_DefaultValue": "",
+        "AttributeTypeId": "",
+        "AlignmentTypeId": "0",
+        "ShowInHeaderRank": ""
+
+      },
+      {
+        "DataTypeID": "4",
+        "AttributeLabel":"Amount(Currency)",
+        "Numeric_Length": "32",
+        "Numeric_DecimalPlaces": "2",
+        "AttributeName": "AMOUNT_CURRENCY_",
+        "AttributeApiCaption": "AmountCurrency",
+        "DoNotExposeInApi": false,
+        "Description": "Amount(Currency)",
+        "HelpText": "Amount(Currency)",
+        "Numeric_DefaultValue": "",
+        "AttributeTypeId": ""
+
+      },
+      {
+        "DataTypeID": "5",
+        "AttributeLabel":"Joining(Date)",
+        "Numeric_Length": "",
+        "Numeric_DecimalPlaces": "",
+        "AttributeName": "JOINING_DATE_",
+        "AttributeApiCaption": "JoiningDate",
+        "DoNotExposeInApi": false,
+        "Description": "Joining(Date)",
+        "HelpText": "Joining(Date)",
+        
+        "AlignmentTypeId": "0",
+        "ShowInHeaderRank": ""
+      },
+      {
+        "DataTypeID": "8",
+        "AttributeLabel":"Age(Number)",
+        "Numeric_Length": "3",
+        "Numeric_DecimalPlaces": "0",
+        "AttributeName": "AGE_NUMBER_",
+        "AttributeApiCaption": "AgeNumber",
+        "DoNotExposeInApi": false,
+        "Description": "Age(Number)",
+        "HelpText": "Age(Number)",
+        "Numeric_DefaultValue": "",
+      
+        "AlignmentTypeId": "0"
+      },
+      {
+        "DataTypeID": "15",
+        "AttributeLabel":"Description2(Text Area Long)",
+        "AlphaNumeric_Length": "300",
+        "Numeric_Length": "",
+        
+        "AttributeName": "DESCRIPTION2_TEXT_AREA_LONG_",
+        "AttributeApiCaption": "Description2TextAreaLong",
+        "DoNotExposeInApi": false,
+        "Description": "",
+        "HelpText": "Description(Text Area Long)",
+        
+        "AlignmentTypeId": "0",
+        "ShowInHeaderRank": ""
+      },
+      {
+        "DataTypeID": "16",
+        "AttributeLabel":"Description3(Text Area Rich)",
+        "AlphaNumeric_Length": "400",
+        "Numeric_Length": "",
+       
+        "AttributeName": "DESCRIPTION3_TEXT_AREA_RICH_",
+        "AttributeApiCaption": "Description3TextAreaRich",
+        "DoNotExposeInApi": false,
+        "Description": "Description3(Text Area Rich)",
+        "HelpText": "Description3(Text Area Rich)",
+        
+        "AlignmentTypeId": "0",
+        "ShowInHeaderRank": ""
+      },
+      {
+        "DataTypeID": "21",
+        "AttributeLabel":"Time(Time)",
+       
+        "AttributeName": "Time_Time_",
+        "AttributeApiCaption": "TimeTime",
+        "DoNotExposeInApi": false,
+        "Description": "Time(Time)",
+        "HelpText": "Time(Time)",
+        
+        "AlignmentTypeId": "0",
+        "ShowInHeaderRank": ""
+      },
+      {
+        "DataTypeID": "23",
+        "AttributeLabel":"Status(Radio Button)",
+        "Numeric_Length": "",
+        "Numeric_DecimalPlaces": "",
+        "AttributeName": "STATUS_RADIO_BUTTON_",
+        "AttributeApiCaption": "StatusRadioButton",
+        "DoNotExposeInApi": false,
+        "Description": "Status(Radio Button)",
+        "HelpText": "Status(Radio Button)",
+        
+        "AlignmentTypeId": "0",
+        "ShowInHeaderRank": "",
+        "GroupDefinitions_Index": "None00",
+        "GroupDefinitions_RecordId": "0",
+        "GroupDefinitions_SystemName": "Member",
+        "GroupDefinitions2_Index": "NewAnswer562010",
+        "GroupDefinitions2_RecordId": "562010",
+        "GroupDefinitions_IsDelete": false,
+        "GroupDefinitions2_SystemName": "Non-Member"
+
+
+
+
+      }
+
+
+]

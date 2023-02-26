@@ -1,0 +1,173 @@
+
+[
+
+{
+    "FirstName_Text":"John",
+    "Age_Number":"30",
+    "Description_TextArea":"This is a text area description. This is a text area description. This is a text area description.",
+    "Description_TextAreaLong": "This is a text long description. This is a text area long description. This is a text area long description.",
+    "Description_TextAreaRich": "This is a text area rich description. This is a text area rich description. This is a text area rich description.",
+    "Active_CheckBox": "Y",
+    "Status_Radio_Button": "Non-Member",
+    "Gender_LookupRelationship": "Male",
+    "Tools_Picklist" : "Male",
+    "Location_Picklist": "London",
+    "Joining_Date":"12/06/2022",
+    "Time_Time":"11",
+    "Amount_Currency":"100"
+
+},
+
+{
+    "FirstName_Text":"Jennifer",
+    "Age_Number":"45",
+    "Description_TextArea":"This is a text area description. This is a text area description. This is a text area description.",
+    "Description_TextAreaLong": "This is a text long description. This is a text area long description. This is a text area long description.",
+    "Description_TextAreaRich": "This is a text area rich description. This is a text area rich description. This is a text area rich description.",
+    "Active_CheckBox": "Y",
+    "Status_Radio_Button": "Member",
+    "Gender_LookupRelationship": "Female",
+    "Tools_Picklist" : "Male",
+    "Location_Picklist": "London",
+    "Joining_Date":"12/06/2000",
+    "Time_Time":"11",
+    "Amount_Currency":"50"
+},
+{
+    "FirstName_Text":"Jason",
+    "Age_Number":"20",
+    "Description_TextArea":"This is a text area description. This is a text area description. This is a text area description.",
+    "Description_TextAreaLong": "This is a text long description. This is a text area long description. This is a text area long description.",
+    "Description_TextAreaRich": "This is a text area rich description. This is a text area rich description. This is a text area rich description.",
+    "Active_CheckBox": "N",
+    "Status_Radio_Button": "Member",
+    "Gender_LookupRelationship": "Male",
+    "Tools_Picklist" : "Male",
+    "Location_Picklist": "London",
+    "Joining_Date":"12/06/2022",
+    "Time_Time":"00",
+    "Amount_Currency":"150"
+},
+
+{
+    "FirstName_Text":"Jean",
+    "Age_Number":"20",
+    "Description_TextArea":"This is a text area description. This is a text area description. This is a text area description.",
+    "Description_TextAreaLong": "This is a text long description. This is a text area long description. This is a text area long description.",
+    "Description_TextAreaRich": "This is a text area rich description. This is a text area rich description. This is a text area rich description.",
+    "Active_CheckBox": "Y",
+    "Status_Radio_Button": "Member",
+    "Gender_LookupRelationship": "Female",
+    "Tools_Picklist" : "Male",
+    "Location_Picklist": "London",
+    "Joining_Date":"12/06/2022",
+    "Time_Time":"11",
+    "Amount_Currency":"100"
+},
+{
+
+    "FirstName_Text":"James",
+    "Age_Number":"30",
+    "Description_TextArea":"This is a text area description. This is a text area description. This is a text area description.",
+    "Description_TextAreaLong": "This is a text long description. This is a text area long description. This is a text area long description.",
+    "Description_TextAreaRich": "This is a text area rich description. This is a text area rich description. This is a text area rich description.",
+    "Active_CheckBox": "Y",
+    "Status_Radio_Button": "Non-Member",
+    "Gender_LookupRelationship": "Male",
+    "Tools_Picklist" : "Male",
+    "Location_Picklist": "London",
+    "Joining_Date":"12/06/2022",
+    "Time_Time":"11",
+    "Amount_Currency":"100"
+},
+
+{
+
+    "FirstName_Text":"Barack",
+    "Age_Number":"30",
+    "Description_TextArea":"This is a text area description. This is a text area description. This is a text area description.",
+    "Description_TextAreaLong": "This is a text long description. This is a text area long description. This is a text area long description.",
+    "Description_TextAreaRich": "This is a text area rich description. This is a text area rich description. This is a text area rich description.",
+    "Active_CheckBox": "Y",
+    "Status_Radio_Button": "Member",
+    "Gender_LookupRelationship": "Female",
+    "Tools_Picklist" : "Female",
+    "Location_Picklist": "London",
+    "Joining_Date":"12/06/2022",
+    "Time_Time":"11",
+    "Amount_Currency":"100"
+},
+{
+
+    "FirstName_Text":"Joyli",
+    "Age_Number":"30",
+    "Description_TextArea":"This is a text area description. This is a text area description. This is a text area description.",
+    "Description_TextAreaLong": "This is a text long description. This is a text area long description. This is a text area long description.",
+    "Description_TextAreaRich": "This is a text area rich description. This is a text area rich description. This is a text area rich description.",
+    "Active_CheckBox": "Y",
+    "Status_Radio_Button": "Member",
+    "Gender_LookupRelationship": "Female",
+    "Tools_Picklist" : "Female",
+    "Location_Picklist": "London",
+    "Joining_Date":"12/06/2022",
+    "Time_Time":"11",
+    "Amount_Currency":"100"
+
+},
+
+{
+    "FirstName_Text":"Jelly",
+    "Age_Number":"30",
+    "Description_TextArea":"This is a text area description. This is a text area description. This is a text area description.",
+    "Description_TextAreaLong": "This is a text long description. This is a text area long description. This is a text area long description.",
+    "Description_TextAreaRich": "This is a text area rich description. This is a text area rich description. This is a text area rich description.",
+    "Active_CheckBox": "N",
+    "Status_Radio_Button": "Non-Member",
+    "Gender_LookupRelationship": "Female",
+    "Tools_Picklist" : "Female",
+    "Location_Picklist": "London",
+    "Joining_Date":"12/06/2022",
+    "Time_Time":"11",
+    "Amount_Currency":"100"
+
+},
+{
+
+    "FirstName_Text":"Jordan",
+    "Age_Number":"30",
+    "Description_TextArea":"",
+    "Description_TextAreaLong": "This field is a long text area",
+    "Description_TextAreaRich": "This is a text area rich description. This is a text area rich description. This is a text area rich description.",
+    "Active_CheckBox": "N",
+    "Status_Radio_Button": "Non-Member",
+    "Gender_LookupRelationship": "",
+    "Tools_Picklist" : "",
+    "Location_Picklist": "",
+    "Joining_Date":"12/12/2009",
+    "Time_Time":"11",
+    "Amount_Currency":""
+},
+{
+    "FirstName_Text":"",
+    "Age_Number":"",
+    "Description_TextArea":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec semper mauris eu orci ornare, eget vulputate lectus malesuada. Mauris non maximus lectus, at tincidunt sem. Cras accumsan imperdiet volutpat. Curabitur auctor scelerisque ante sed consectetur.",
+    "Description_TextAreaLong": "",
+    "Description_TextAreaRich": "",
+    "Active_CheckBox": "N",
+    "Status_Radio_Button": "Non-Member",
+    "Gender_LookupRelationship": "Female",
+    "Tools_Picklist" : "Female",
+    "Location_Picklist": "",
+    "Joining_Date":"26/05/2021",
+    "Time_Time":"11",
+    "Amount_Currency":""
+
+}
+
+
+
+
+
+
+
+]

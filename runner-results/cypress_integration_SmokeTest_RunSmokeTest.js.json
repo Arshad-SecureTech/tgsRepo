@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 5,
+  "passes": 5,
+  "pending": 0,
+  "failures": 0,
+  "start": "2022-06-30T15:12:14.042Z",
+  "duration": 521599,
+  "file": "cypress/integration/SmokeTest/RunSmokeTest.js"
+}

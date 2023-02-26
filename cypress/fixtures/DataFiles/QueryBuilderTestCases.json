@@ -1,0 +1,70 @@
+[
+  {
+    "MetaData": {
+      "Test_Case_ID": "TestCase_01",
+      "Number_Of_RowProperties": "6",
+      "ANDRows": "1,5", 
+      "ORRows": "2,3",
+      "Result_Rows": "1"
+   },
+    "RowProperties_1": {
+      "Attribute_DD1": "FirstName(Text)",
+      "Operator1": "Not Equal",
+      "Value1": "John",
+      "ThirdColumnType": "Text"
+    },
+    "RowProperties_2": {
+      "Attribute_DD2": "Active(CheckBox)",
+      "Operator2": "Equal",
+      "Value2": "UnCheck",
+      "ThirdColumnType": "DropDown"
+    },
+    "RowProperties_3": {
+      "Attribute_DD3": "Age(Number)",
+      "Operator3": "Not Equal",
+      "Value3": "30",
+      "ThirdColumnType": "Text"
+    },
+    "RowProperties_4": {
+      "Attribute_DD4": "Status(Radio Button)",
+      "Operator4": "Equal",
+      "Value4": "Member",
+      "ThirdColumnType": "Radio"
+    }
+    ,
+    "RowProperties_5": {
+      "Attribute_DD5": "Description(Text Area)",
+      "Operator5": "Not Equal",
+      "Value5": "Some Text",
+      "ThirdColumnType": "Text"
+    }
+    ,
+    "RowProperties_6": {
+      "Attribute_DD6": "Description2(Text Area Long)",
+      "Operator6": "Not Equal",
+      "Value6": "Another Text",
+      "ThirdColumnType": "Text"
+    }
+  },
+  {
+    "MetaData": {
+      "Test_Case_ID": "TestCase_02",
+      "Number_Of_RowProperties": "2",
+      "ANDRows": "",
+      "ORRows": "",
+      "Result_Rows": "1"
+    },
+    "RowProperties_1": {
+      "Attribute_DD1": "FirstName(Text)",
+      "Operator1": "Equal",
+      "Value1": "John",
+      "ThirdColumnType": "Text"
+    },
+    "RowProperties_2": {
+      "Attribute_DD2": "Active(CheckBox)",
+      "Operator3": "Equal",
+      "Value3": "UnCheck",
+      "ThirdColumnType": "DropDown"
+    }
+  }
+]

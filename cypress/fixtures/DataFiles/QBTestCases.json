@@ -1,0 +1,78 @@
+[
+
+    {
+  
+      "MetaData": {
+        "Test_Case_ID":"TestCase_01",
+        "Number_Of_RowProperties": "4",
+        "ANDRows": "1",
+        "ORRows": "5,4,7",
+        "ThiswillbeUndefined": "ThiswillbeUndefined",
+         "Result_Rows": "1"
+      },
+  
+        "RowProperties_1": {
+          "Attribute_DD1":"FirstName(Text)",
+          "Operator1": "Not Equal",
+          "Value1":"John",
+          "ThirdColumnType":"Text"
+                  },
+          "RowProperties_2": {
+          "Attribute_DD2":"Active(CheckBox)",
+          "Operator2": "Equal",
+          "Value2":"UnCheck",
+          "ThirdColumnType":"DropDown"
+                  },
+        "RowProperties_3": {
+          "Attribute_DD3":"Age(Number)",
+          "Operator3": "Not Equal",
+          "Value3":"30",
+          "ThirdColumnType":"Text"
+        },
+        
+        "RowProperties_4": {
+          "Attribute_DD4":"Gender(Lookup2)",
+          "Operator4": "Equal",
+          "Value4":"Male(Option2)",
+          "ThirdColumnType":"Lookup"
+        }
+      },
+    
+      {
+  
+        "MetaData": {
+          "Test_Case_ID":"TestCase_02",
+          "Number_Of_RowProperties": "3",
+          "Operator": "Group And",
+          "RowInfo": "1 and 2",
+          "ValueType": "Txt2",
+          "Result_Rows": ""
+        },
+    
+          "RowProperties_1": {
+                    
+            "Attribute_DD1":"FirstName(Text)",
+            "Operator1": "Equal",
+            "Value1":"John",
+            "ThirdColumnType":"Text"
+    
+                    },
+          "RowProperties_2": {
+            "Attribute_DD2":"Gender(Lookup2)",
+            "Operator2": "Equal",
+            "Value2":"Male(Option2)",
+            "ThirdColumnType":"Lookup"
+          },
+  
+          "RowProperties_3": {
+            "Attribute_DD3":"Active(CheckBox)",
+            "Operator3": "Equal",
+            "Value3":"UnCheck",
+            "ThirdColumnType":"DropDown"
+          }
+        }
+          
+      ]
+        
+  
+      

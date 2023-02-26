@@ -1,0 +1,133 @@
+
+[
+
+ 
+
+    {
+        
+    "Test_Case_ID": "TestCase_01",
+    "LoopCount": "1",
+    
+    "TextField":"FirstName(Text)",
+    "Operator1": "Equal",
+    "FirstName_Text":"John",
+    "Number":"Age(Number)",
+    "Operator2": "Equal",
+    "Age_Number":"30",
+    "Operator": "Group And",
+    "Rows": "1"
+
+    },
+  {
+   
+    "Test_Case_ID": "TestCase_02",
+    "LoopCount": "2",
+    "TextField":"FirstName(Text)",
+    "Operator1": "Equal",
+    "FirstName_Text":"Jordan",
+    "Number":"Age(Number)",
+    "Operator2": "Equal",
+    "Age_Number":"30",
+    "Operator": "Group And",
+    "Rows": "1"
+    },
+  
+    {
+   
+        "Test_Case_ID": "TestCase_03",
+        "LoopCount": "3",
+        
+        "NewEntityName":"QA Entity20226321379",
+        "TextField":"FirstName(Text)",
+        "Operator1": "Equal",
+        "FirstName_Text":"",
+        "Number":"Age(Number)",
+        "Operator2": "Less Than",
+        "Age_Number":"30",
+        "Operator": "Group And",
+        "Rows": "1"
+        },
+      
+
+   
+        {
+   
+          "Test_Case_ID": "TestCase_04",
+          "LoopCount": "4",
+          
+          "NewEntityName":"QA Entity20226321379",
+          "TextField":"FirstName(Text)",
+          "Operator1": "Equal",
+          "FirstName_Text":"John",
+          "Number":"Age(Number)",
+          "Operator2": "Equal",
+          "Age_Number":"",
+          "Operator": "Group And",
+          "Rows": "1"
+          },
+
+
+
+
+
+
+
+
+            {
+   
+              "Test_Case_ID": "TestCase_05",
+              "LoopCount": "5",
+              
+              "NewEntityName":"QA Entity20226321379",
+              "TextField":"FirstName(Text)",
+              "Operator1": "Not Equal",
+              "FirstName_Text":"John",
+              "Number":"Age(Number)",
+              "Operator2": "Equal",
+              "Age_Number":"",
+              "Operator": "Group And",
+              "Rows": "1"
+              },
+              {
+                "Test_Case_ID": "TestCase_06",
+                "LoopCount": "6",
+                
+                "NewEntityName":"QA Entity20226321379",
+                "TextField":"FirstName(Text)",
+                "Operator1": "Is Not Blank",
+                "FirstName_Text":"Jordan",
+                "Number":"Age(Number)",
+                "Operator2": "Equal",
+                "Age_Number":"40",
+                "Operator": "Group Or",
+                "Rows": "9"
+                },
+                {
+   
+                  "Test_Case_ID": "TestCase_07",
+                  "LoopCount": "7",
+                  
+                  "NewEntityName":"QA Entity20226321379",
+                  "TextField":"FirstName(Text)",
+                  "Operator1": "Is Not Blank",
+                  "FirstName_Text":"Jordan",
+                  "Number":"Age(Number)",
+                  "Operator2": "Equal",
+                  "Age_Number":"",
+                  "Operator": "Group Or",
+                  "Rows": "10"
+                  }
+
+                
+
+
+
+
+
+
+
+
+
+
+
+]

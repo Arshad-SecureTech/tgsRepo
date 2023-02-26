@@ -1,0 +1,30 @@
+{"NewEntityName":"QA Entity170.96662554727195",
+    "CustomEntityName":"QA Entity",
+    "EntityRecordName":"QA EntityRecord",
+    "TextField":"FirstName(Text)",
+    "Number":"Age(Number)",
+    "Description":"Description(Text Area)",
+    "Description2":"Description2(Text Area Long)",
+    "Description3":"Description3(Text Area Rich)",
+    "Checkbox":"Active(CheckBox)",
+    "Currency":"Amount(Currency)",
+    "RadioButton":"Status(Radio Button)",
+    "Date":"Joining(Date)",
+    "PickList":"Tools(Picklist)",
+    "LookUpRelationship":"Gender(LookupRelationship)",
+    "Time":"Time(Time)",
+    "File":"Upload(File)",
+    "Password":"Password",
+    "PasswordHash":"PasswordHash",
+    "ContactNo":3,
+    "JoiningDate": "Joining(Date)",
+    "Age_Number": "Age(Number)",
+    "FirstName": "FirstName(Text)",
+    "Amount_Currency": "Amount(Currency)"
+    
+    
+    
+
+
+
+}

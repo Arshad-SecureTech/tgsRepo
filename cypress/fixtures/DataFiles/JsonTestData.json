@@ -1,0 +1,84 @@
+
+    {
+
+      "Apples":{
+        "goodApple": {
+          "skin": "Black",
+          "colors": "Red",
+          "taste": 10
+        },
+        "badApple": {
+          "colors": "brown",
+          "taste": 0,
+          "worms": 2
+        }
+      },
+
+
+
+
+      "Schema": {
+          "$schema": "http://json-schema.org/draft-04/schema#",
+          "type": "object",
+          "properties": {
+            "goodApple": {
+              "type": "object",
+              "properties": {
+                "skin": {
+                  "type": "string"
+                },
+                "colors": {
+                  "type": "string",
+                  "items": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "string"
+                    }
+                  ]
+                },
+                "taste": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "skin",
+                "colors",
+                "taste"
+              ]
+            },
+            "badApple": {
+              "type": "object",
+              "properties": {
+                "colors": {
+                  "type": "string",
+                  "items": [
+                    {
+                      "type": "string"
+                    }
+                  ]
+                },
+                "taste": {
+                  "type": "integer"
+                },
+                "worms": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "colors",
+                "taste",
+                "worms"
+              ]
+            }
+          },
+          "required": [
+            "goodApple",
+            "badApple"
+          ]
+        }
+      }

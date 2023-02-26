@@ -1,0 +1,15 @@
+{
+
+    "Description": "Male",
+    "ProfileName": "QA Dept",
+    "Contact_FirstName": "Lee-Test",
+    "QBLookForEntityName": "Contact",
+    "QBAttributeName": "First Name",
+    "AddDropDownValue": "Profile Picklist ID",
+    "SecondColumnOperatorValue": "Equal",
+    "ThirdColumnValue": "Lee-Test",
+    "ActionDropDownValue": "Assign/UnAssign Profile",
+    "GridRows": "1"
+    
+    }
+
